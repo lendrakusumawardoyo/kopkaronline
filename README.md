@@ -1,2 +1,0 @@
-# kopkaronline
-koperasi-online
